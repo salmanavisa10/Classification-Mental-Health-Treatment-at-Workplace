@@ -1,4 +1,4 @@
-# Classification Mental Health Treatment at Workspace
+# Classification Mental Health Treatment at Workplace
 
 The data was obtained from a 2014 survey by Mental Health Open Sourcing Mental Illness (OSMI) 
 which measured attitudes towards mental health and the frequency of mental health disorders 
